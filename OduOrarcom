@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oduorar Kompaniyasi</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+
+        header, footer {
+            background-color: #007bff;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        h1 {
+            margin: 0;
+        }
+
+        section {
+            padding: 20px;
+            margin-bottom: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        ul li {
+            margin-bottom: 8px;
+        }
+
+        footer {
+            font-size: 12px;
+        }
+
+        footer p {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Oduorar Kompaniyasi</h1>
+    </header>
+
+    <section id="games">
+        <h2>Kompaniya o'yinlari:</h2>
+        <ul>
+            <li>BirdBoy1</li>
+            <li>Sonni top!</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Proyektlar:</h2>
+        <ul>
+            <li>BirdBoy1</li>
+            <li>GDM</li>
+            <li>Stikers</li>
+            <li>OduOrar Bot</li>
+            <li>Console</li>
+            <li>Orabrain</li>
+            <li>NokDT (dasturlash tili)</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Tugagan proyektlar:</h2>
+        <ul>
+            <li>Stikers</li>
+            <li>Console</li>
+            <li>OduOrar Bot</li>
+        </ul>
+    </section>
+
+    <section>
+        <!-- Add more sections if needed -->
+    </section>
+
+    <section>
+        <h2>Komandalar:</h2>
+        <ul>
+            <li>Game commands</li>
+            <li>Program commands</li>
+            <li>Bot commands</li>
+            <li>Minecraft commands</li>
+            <li>MineScar commands</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Oduorar</p>
+    </footer>
+</body>
+</html>
